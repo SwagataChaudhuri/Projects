@@ -5,4 +5,4 @@ This folder consists of a set of PowerShell Scripts leveraging CSOM Model of Mic
 O365 SharePoint Online Script to establish connection to a SPO Site Collection
 
 ## O365 SPO CSOM Script 02.ps1
-O365 SharePoint Online Script to download a Single File from provided File URL
+O365 SharePoint Online Script to download a single File from provided File URL
